@@ -1,0 +1,30 @@
+[
+    {
+    "Name": "Website Promotion - Landing",
+    "Status": "SUCCESS",
+    "CreatedAt": "17 Jun 2021",
+    "Method": "CSV",
+    "media": "Video"
+},
+{
+    "Name": "App Download",
+    "Status": "FAILED",
+    "CreatedAt": "15 Jun 2021",
+    "Method": "URL Override",
+    "media": "Video"
+},
+{
+    "Name": "Social Media Promotion",
+    "Status": "SUCCESS",
+    "CreatedAt": "14 Jun 2021",
+    "Method": "CSV",
+    "media": "Video"
+},
+{
+    "Name": "Linkedin Templates",
+    "Status": "FAILED",
+    "CreatedAt": "13 Jun 2021",
+    "Method": "URL Override",
+    "media": "Video"
+}
+]
